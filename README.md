@@ -11,7 +11,7 @@ Portuguese/Spanish/English
 
  
 
- # My GitHub Stats Visualization
+ # My GitHub Stats
 ![image](https://raw.githubusercontent.com/feijoes/feijoes/master/generated/overview.svg#gh-dark-mode-only)
 ![image](https://raw.githubusercontent.com/feijoes/feijoes/master/generated/languages.svg#gh-dark-mode-only)
 
