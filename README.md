@@ -1,5 +1,5 @@
 
-# My account
+
 
 ![](https://komarev.com/ghpvc/?username=feijoes)
 
@@ -8,8 +8,8 @@ Portuguese/Spanish/English
 
 [![paypal.me/anuraghazra](https://ionicabizau.github.io/badges/paypal.svg)](https://www.paypal.com/paypalme/joaoSMBR)
 
-
- 
+# My SKills
+[![My Skills](https://skillicons.dev/icons?i=js,html,nodejs,py,bootstrap,bots,django,firebase,flask,heroku,mongodb,mysql,react,selenium,ts&theme=dark)](https://skillicons.dev)
 
  # My GitHub Stats
 ![image](https://raw.githubusercontent.com/feijoes/feijoes/master/generated/overview.svg#gh-dark-mode-only)
