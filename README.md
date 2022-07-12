@@ -8,7 +8,7 @@ Portuguese/Spanish/English
 
 [![paypal.me/anuraghazra](https://ionicabizau.github.io/badges/paypal.svg)](https://www.paypal.com/paypalme/joaoSMBR)
 
-# My SKills
+# My Skills
 [![My Skills](https://skillicons.dev/icons?i=js,html,nodejs,py,bootstrap,bots,django,firebase,flask,heroku,mongodb,mysql,react,selenium,ts&theme=dark)](https://skillicons.dev)
 
  # My GitHub Stats
