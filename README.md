@@ -19,6 +19,11 @@ Portuguese/Spanish/English
 
 # Coding Time in the last 7days
 <!--START_SECTION:waka-->
+
+```text
+Other        30 hrs 11 mins  ████████████████████▓░░░░   82.27 %
+```
+
 <!--END_SECTION:waka-->
 ![wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=feijoes&theme=dark)
 ## Contact Me
