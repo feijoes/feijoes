@@ -1,9 +1,10 @@
-
-
-
 ![](https://komarev.com/ghpvc/?username=feijoes)
 
-I am 16 year old Brazilian :brazil: student that programing in the free time 
+
+
+![](https://capsule-render.vercel.app/api?type=transparent&fontColor=703ee5&text=feijoes&height=150&fontSize=100&desc=16%20years%20old%20Brazilian&descAlignY=80&descAlign=60)
+
+I am student that programing in the free time 
 Portuguese/Spanish/English
 
 [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://www.paypal.com/paypalme/joaoSMBR)
