@@ -11,7 +11,7 @@ Portuguese/Spanish/English
 
 
 # My Skills
-![My Skills](https://skillicons.dev/icons?i=js,html,nodejs,py,dotnet,cs,git,express,java,bootstrap,bots,django,firebase,flask,heroku,mongodb,mysql,react,selenium,ts&theme=dark&perline=10)
+![My Skills](https://skillicons.dev/icons?i=js,html,nodejs,py,dotnet,cs,git,express,nest,java,bootstrap,bots,django,firebase,flask,heroku,mongodb,mysql,react,selenium,ts&theme=dark&perline=10)
 <img src="https://user-images.githubusercontent.com/94744748/174678573-5e5f084c-d17a-4002-8f09-6c9885fb0823.svg" width="48px" alt="Postman Icon"/>
  # My GitHub Stats
 ![image](https://raw.githubusercontent.com/feijoes/feijoes/master/generated/overview.svg#gh-dark-mode-only)
