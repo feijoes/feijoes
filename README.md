@@ -17,7 +17,6 @@ Portuguese/Spanish/English
  # My GitHub Stats
 ![image](https://raw.githubusercontent.com/feijoes/feijoes/master/generated/overview.svg#gh-dark-mode-only)
 ![image](https://raw.githubusercontent.com/feijoes/feijoes/master/generated/languages.svg#gh-dark-mode-only)
-![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=feijoes&theme=github_dark)
 
 
 
