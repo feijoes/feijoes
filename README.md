@@ -12,7 +12,7 @@ Portuguese/Spanish/English
 
 
 # My Skills
-![My Skills](https://skillicons.dev/icons?i=html,nodejs,py,dotnet,cs,git,express,nest,java,bootstrap,bots,django,firebase,flask,heroku,prisma,mongodb,mysql,react,selenium,ts&theme=dark&perline=11)
+![My Skills](https://skillicons.dev/icons?i=html,nodejs,py,dotnet,cs,git,express,deno,nest,java,bootstrap,bots,django,firebase,flask,heroku,prisma,mongodb,mysql,react,selenium,ts&theme=dark&perline=11)
 <img src="https://user-images.githubusercontent.com/94744748/174678573-5e5f084c-d17a-4002-8f09-6c9885fb0823.svg" width="48px" alt="Postman Icon"/>
 
  # My GitHub Stats
