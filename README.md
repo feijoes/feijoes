@@ -12,8 +12,23 @@ Portuguese/Spanish/English
 
 
 # My Skills
-![My Skills](https://skillicons.dev/icons?i=html,nodejs,py,dotnet,cs,git,express,nest,java,webpack,bootstrap,django,firebase,flask,heroku,prisma,mongodb,mysql,react,selenium,ts&theme=dark&perline=11)
-<img src="https://user-images.githubusercontent.com/94744748/174678573-5e5f084c-d17a-4002-8f09-6c9885fb0823.svg" width="48px" alt="Postman Icon"/>
+
+## Lenguages
+![My Skills](https://skillicons.dev/icons?i=js,ts,cs,java,py,r&theme=dark&perline=9)
+
+## Frontend
+![My Skills](https://skillicons.dev/icons?i=angular,bootstrap,html,css,materialui,react,redux,sass,css&perline=9)
+
+## Backend
+![My Skills](https://skillicons.dev/icons?i=nodejs,django,express,dotnet,fastapi,nestjs,spring&theme=dark&perline=9)
+
+## Data bases
+![My Skills](https://skillicons.dev/icons?i=firebase,mongodb,mysql,postgres,prisma,sqlite&theme=dark&perline=9)
+
+## Other Stuff
+
+![My Skills](https://skillicons.dev/icons?i=git,webpack,heroku,selenium&theme=dark&perline=11)
+
 
  # My GitHub Stats
 ![image](https://raw.githubusercontent.com/feijoes/feijoes/master/generated/overview.svg#gh-dark-mode-only)
