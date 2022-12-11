@@ -14,7 +14,7 @@ Portuguese/Spanish/English
 # My Skills
 
 ## Lenguages
-![My Skills](https://skillicons.dev/icons?i=js,ts,cs,java,py,r&theme=dark&perline=9)
+![My Skills](https://skillicons.dev/icons?i=js,ts,cs,java,py&theme=dark&perline=9)
 
 ## Frontend
 ![My Skills](https://skillicons.dev/icons?i=angular,bootstrap,html,css,materialui,react,redux,sass,css&perline=9)
