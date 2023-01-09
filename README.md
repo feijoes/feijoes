@@ -1,5 +1,5 @@
 ![](https://komarev.com/ghpvc/?username=feijoes)
-
+[![wakatime](https://wakatime.com/badge/user/b52595ac-bff5-4381-b089-0e76f437a204.svg)](https://wakatime.com/@b52595ac-bff5-4381-b089-0e76f437a204)
 
 
 ![](https://capsule-render.vercel.app/api?type=transparent&fontColor=703ee5&text=feijoes&height=150&fontSize=100&desc=17%20years%20old%20Brazilian&descAlignY=80&descAlign=60)
