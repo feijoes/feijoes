@@ -14,10 +14,10 @@ Portuguese/Spanish/English
 # My Skills
 
 ## Lenguages
-![My Skills](https://skillicons.dev/icons?i=rust,js,ts,cs,java,py&theme=dark&perline=9)
+![My Skills](https://skillicons.dev/icons?i=rust,js,ts,cs,py&theme=dark&perline=9)
 
 ## Frontend
-![My Skills](https://skillicons.dev/icons?i=angular,bootstrap,html,css,materialui,react,redux,sass,css&perline=9)
+![My Skills](https://skillicons.dev/icons?i=angular,bootstrap,react,redux,sass&perline=9)
 
 ## Backend
 ![My Skills](https://skillicons.dev/icons?i=nodejs,django,express,dotnet,fastapi,nestjs,spring&theme=dark&perline=9)
