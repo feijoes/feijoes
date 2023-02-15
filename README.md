@@ -27,7 +27,7 @@ Portuguese/Spanish/English
 
 ## Other Stuff
 
-![My Skills](https://skillicons.dev/icons?i=git,webpack,heroku,selenium&theme=dark&perline=11)
+![My Skills](https://skillicons.dev/icons?i=git,webpack,heroku,selenium,postman,docker&theme=dark&perline=11)
 
 
  # My GitHub Stats
