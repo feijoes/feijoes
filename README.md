@@ -14,10 +14,10 @@ Portuguese/Spanish/English
 # My Skills
 
 ## Lenguages
-![My Skills](https://skillicons.dev/icons?i=rust,js,ts,cs,py&theme=dark&perline=9)
+![My Skills](https://skillicons.dev/icons?i=rust,ts,cs,py&theme=dark&perline=9)
 
 ## Frontend
-![My Skills](https://skillicons.dev/icons?i=angular,bootstrap,react,redux,sass&perline=9)
+![My Skills](https://skillicons.dev/icons?i=bootstrap,react,redux,sass&perline=9)
 
 ## Backend
 ![My Skills](https://skillicons.dev/icons?i=nodejs,django,express,dotnet,fastapi,nestjs,spring&theme=dark&perline=9)
@@ -27,7 +27,7 @@ Portuguese/Spanish/English
 
 ## Other Stuff
 
-![My Skills](https://skillicons.dev/icons?i=git,webpack,heroku,selenium,postman,docker&theme=dark&perline=11)
+![My Skills](https://skillicons.dev/icons?i=git,webpack,selenium,postman,docker&theme=dark&perline=11)
 
 
  # My GitHub Stats
