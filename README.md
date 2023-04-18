@@ -11,7 +11,13 @@ Portuguese/Spanish/English
 [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://www.paypal.com/paypalme/joaoSMBR)
 
 
-# My Skills
+
+<div id="user-content-toc">
+  <ul>
+    <summary><h1 style="display: inline-block;">My Skills</h1></summary>
+  </ul>
+</div>
+
 
 ## Lenguages
 ![My Skills](https://skillicons.dev/icons?i=rust,ts,kotlin,py&theme=dark&perline=9)
