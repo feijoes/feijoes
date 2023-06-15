@@ -26,7 +26,7 @@ Portuguese/Spanish/English
 ![My Skills](https://skillicons.dev/icons?i=bootstrap,react,redux,sass&perline=9)
 
 ## Backend
-![My Skills](https://skillicons.dev/icons?i=django,express,dotnet,nestjs&theme=dark&perline=9)
+![My Skills](https://skillicons.dev/icons?i=actix,django,express,dotnet,nestjs&theme=dark&perline=9)
 
 ## Data bases
 ![My Skills](https://skillicons.dev/icons?i=firebase,mongodb,mysql,postgres,sqlite&theme=dark&perline=9)
