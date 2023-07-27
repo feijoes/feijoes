@@ -4,8 +4,7 @@
 
 ![](https://capsule-render.vercel.app/api?type=transparent&fontColor=703ee5&text=feijoes&height=150&fontSize=100&desc=17%20years%20old%20Brazilian&descAlignY=80&descAlign=60)
 
-Student thats programing in the free time 
-
+student who programs in their free time
 Portuguese/Spanish/English
 
 [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://www.paypal.me/JoaoSMBR)
@@ -19,7 +18,7 @@ Portuguese/Spanish/English
 </div>
 
 
-## Lenguages
+## Languages
 ![My Skills](https://skillicons.dev/icons?i=rust,ts,kotlin,py&theme=dark&perline=9)
 
 ## Frontend
@@ -28,7 +27,7 @@ Portuguese/Spanish/English
 ## Backend
 ![My Skills](https://skillicons.dev/icons?i=actix,django,express,dotnet,nestjs&theme=dark&perline=9)
 
-## Data bases
+## Databases
 ![My Skills](https://skillicons.dev/icons?i=firebase,mongodb,mysql,postgres,sqlite&theme=dark&perline=9)
 
 ## Other Stuff
