@@ -36,10 +36,8 @@ Portuguese/Spanish/English
 
 
  # My GitHub Stats
-![image](https://raw.githubusercontent.com/feijoes/feijoes/master/generated/overview.svg#gh-dark-mode-only)
-![image](https://raw.githubusercontent.com/feijoes/feijoes/master/generated/languages.svg#gh-dark-mode-only)
-
-
+![image](https://github.com/feijoes/feijoes/blob/master/generated/overview.svg)
+![image](https://github.com/feijoes/feijoes/blob/master/generated/languages.svg)
 
 <details>
   <summary><h1>Coding Time</h1>  
