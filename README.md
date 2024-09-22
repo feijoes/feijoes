@@ -6,16 +6,27 @@
 
 Portuguese/Spanish/English
 
+Hi, I’m Pedro. I’ve been coding since I was 14 and am currently working as a software engineer. I'm also in my first year at FING Udelar.
+
 [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://www.paypal.me/JoaoSMBR)
+
+ # My GitHub Stats
+![image](https://github.com/feijoes/feijoes/blob/master/generated/overview.svg)
+![image](https://github.com/feijoes/feijoes/blob/master/generated/languages.svg)
+
+<details>
+  <summary><h1>Coding Time</h1>  
+  </summary>
+   <img src="https://github-readme-stats.vercel.app/api/wakatime?username=feijoes&theme=dark" alt="wakatime stats">
+</details>
 
 
 
 <div id="user-content-toc">
   <ul>
-    <summary><h1 style="display: inline-block;">My Skills</h1></summary>
-  </ul>
-</div>
-
+    <details>
+    <summary><h1 style="display: inline-block;">Skills</h1></summary>
+        
 
 ## Languages
 ![My Skills](https://skillicons.dev/icons?i=rust,ts,kotlin,py&theme=dark&perline=9)
@@ -32,18 +43,9 @@ Portuguese/Spanish/English
 ## Other Stuff
 
 ![My Skills](https://skillicons.dev/icons?i=git,webpack,selenium,postman,docker&theme=dark&perline=11)
-
-
- # My GitHub Stats
-![image](https://github.com/feijoes/feijoes/blob/master/generated/overview.svg)
-![image](https://github.com/feijoes/feijoes/blob/master/generated/languages.svg)
-
-<details>
-  <summary><h1>Coding Time</h1>  
-  <hr> </summary>
-   <img src="https://github-readme-stats.vercel.app/api/wakatime?username=feijoes&theme=dark" alt="wakatime stats">
-</details>
-
+    </details>  
+  </ul>
+</div>
 
 ## Contact Me
 <sup>Preference: WhatsApp or Email</sup>
