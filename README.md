@@ -8,6 +8,8 @@ Portuguese/Spanish/English
 
 Hi, I’m Pedro. I’ve been coding since I was 14 and am currently working as a software engineer. I'm also in my first year at FING Udelar.
 
+Feel free to message me on Discord if you'd like to chat.
+
 [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://www.paypal.me/JoaoSMBR)
 
  # My GitHub Stats
