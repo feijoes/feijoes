@@ -6,7 +6,7 @@
 
 Portuguese/Spanish/English
 
-Hi, I’m Pedro. I’ve been coding since I was 14 and am currently working as a software engineer. I'm also in my first year at FING Udelar.
+Hi, I’m Pedro. I've been coding since I was 14 and started working as a software engineer at 17. Currently, I'm in my first year at FING Udelar
 
 Feel free to message me on Discord if you'd like to chat.
 
