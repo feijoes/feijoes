@@ -7,7 +7,11 @@
 Portuguese/Spanish/English
 
 Hi, I'm Pedro! I've been coding since I was 14 and began working as a software engineer at 17. Currently, I'm a first-year student at FING Udelar and also working at [code4business](https://www.linkedin.com/company/code4b/posts/?feedView=all).
-
+```rust
+fn main() {
+    println!("{}", char::from_u32((0..('T' as u32)).sum()).unwrap());
+}
+```
 Feel free to message me on Discord if you'd like to chat.
 
 [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://www.paypal.me/JoaoSMBR)
