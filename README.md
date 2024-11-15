@@ -20,14 +20,6 @@ Feel free to message me on Discord if you'd like to chat.
 ![image](https://github.com/feijoes/feijoes/blob/master/generated/overview.svg)
 ![image](https://github.com/feijoes/feijoes/blob/master/generated/languages.svg)
 
-<details>
-  <summary><h1>Coding Time</h1>  
-  </summary>
-   <img src="https://github-readme-stats.vercel.app/api/wakatime?username=feijoes&theme=dark" alt="wakatime stats">
-</details>
-
-
-
 <div id="user-content-toc">
   <ul>
     <details>
