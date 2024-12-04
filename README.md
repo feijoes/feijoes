@@ -6,7 +6,7 @@
 
 Portuguese/Spanish/English
 
-Hi, I'm Pedro! I've been coding since I was 14 and began working as a software engineer at 17. Currently, I'm a first-year student at FING Udelar and also working at [code4business](https://www.linkedin.com/company/code4b/posts/?feedView=all).
+Hi, I'm Pedro! I've been coding since I was 14 and began working as a software engineer at 17. Currently, I'm a second-year student at FING Udelar and also working at [code4business](https://www.linkedin.com/company/code4b/posts/?feedView=all).
 ```rust
 fn main() {
     println!("{}", char::from_u32((0..('T' as u32)).sum()).unwrap());
