@@ -47,6 +47,4 @@ Feel free to message me on Discord if you'd like to chat.
 
 
 ## Contact Me
-<sup>Preference: WhatsApp or Email</sup>
-
 | [<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Linkedin.svg" alt="Linkedin Logo" width="32">](https://www.linkedin.com/in/pedrocaladomoura/) | [<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Gmail.svg" alt="Gmail logo" height="32">](mailto:pcaladomoura@gmail.com)| [<img src="https://www.speaktech.in/themes/images/whatsapp-icon.png" alt="Whatsapp logo" height="32">](https://web.whatsapp.com/send?phone=598091363661)|  [<img src="https://www.freepnglogos.com/uploads/youtube-play-red-logo-png-transparent-background-6.png" alt="Youtube Logo" width="32">](https://www.youtube.com/@feijoes/videos) | [<img src="https://www.freepnglogos.com/uploads/discord-logo-png/concours-discord-cartes-voeux-fortnite-france-6.png" alt="discord logo" width="36" >](https://discord.com/users/849827543052713984) | [<img src="https://github.com/user-attachments/assets/9aa2f596-d815-4063-9a87-0ef678bccf3d" width="26">](https://www.twitch.tv/feijoesjp)
