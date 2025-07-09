@@ -4,9 +4,12 @@
 
 ![](https://capsule-render.vercel.app/api?type=transparent&fontColor=703ee5&text=feijoes&height=150&fontSize=100&desc=19%20years%20old%20Brazilian&descAlignY=80&descAlign=60)
 
-Portuguese/Spanish/English
+Portuguese/Spanish/English/Chinese (Mandarin)
 
 Hi, I'm Pedro! I've been coding since I was 14 and began working as a software engineer at 17. Currently, I'm a second-year student at FING Udelar and also working at [code4business](https://www.linkedin.com/company/code4b/posts/?feedView=all).
+
+👋 嗨，我正在学中文～如果你想聊聊，可以加我微信！
+
 ```rust
 fn main() {
     println!("{}", char::from_u32((0..('T' as u32)).sum()).unwrap());
@@ -44,6 +47,10 @@ Feel free to message me on Discord if you'd like to chat.
     </details>  
   </ul>
 </div>
+
+## WeChat QR Code
+
+<img src="https://github.com/user-attachments/assets/da52b266-aa0e-4689-8eee-1ff903941710" width="180">
 
 
 ## Contact Me
