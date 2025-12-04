@@ -6,7 +6,7 @@
 
 Portuguese/Spanish/English/Chinese (Mandarin)
 
-Hi, I'm Pedro! I've been coding since I was 14 and began working as a software engineer at 17. Currently, I'm a second-year student at FING Udelar and also working at [code4business](https://www.linkedin.com/company/code4b/posts/?feedView=all).
+Hi, I'm Pedro! I've been coding since I was 14 and began working as a software engineer at 17. Currently, I'm a third-year student at FING Udelar and also working at [code4business](https://www.linkedin.com/company/code4b/posts/?feedView=all).
 
 👋 嗨，我正在学中文～如果你想聊聊，可以加我微信！
 
